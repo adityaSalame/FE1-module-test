@@ -1,0 +1,37 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+.card-img-top{
+    height:300;
+}
+
+.figure .img{
+    height: 450px;
+}
+
+.card-section{
+    margin:5%;
+}
+
+#customcss{
+    margin:5%;
+    
+    background-color: rgb(183, 183, 226);
+    
+}
+
+#footer{
+    height:30%;
+    background-color: aquamarine;
+    text-align: center;
+}
+#footer .p-2{
+    margin-top: 5px;
+}
+
+#footer p{
+    margin-top:30px;
+}
